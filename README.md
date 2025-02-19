@@ -63,7 +63,7 @@ Layer选项  （LAYER）
 
 日志窗口（记录操作和下载是否成功）
 
-![Screenshot from 2023-07-30 14-31-36](./doc/Screenshot from 2023-07-30 14-31-36.png)
+![a0](./doc/Screenshot from 2023-07-30 14-31-36.png)
 
 ## 3.2 交互
 
